@@ -1,0 +1,15 @@
+.remEl {
+    background-color: #ffaeae;
+    margin: 12px;
+    padding: 5px;
+}
+
+.addEl {
+    background-color: #aeffae;
+    margin: 12px;
+    padding: 5px;
+}
+
+.title {
+    text-decoration: underline;
+}
